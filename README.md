@@ -23,17 +23,6 @@ Example Request:
     "text": "tarki"
 }
 
-Example Response:
-
-{
-  "id": 2,
-  "author": "Dmitrii",
-  "text": "My first post.",
-  "pub_date": "2022-11-22T12:00:22.021094Z",
-  "image": null,
-  "group": null
-}
-
 Comment on a Post
 
 Endpoint: POST /api/v1/posts/{post_id}/comments/
